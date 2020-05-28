@@ -1,2 +1,2 @@
-# home
-The only Python IDE you'll ever need
+## What is Cake?
+Cake is a macOS, Terminal-based Python IDE. It is simple, straightforward and super lightweight (the total size is less than 3kb!) It has all the Python functionality you could ever imagine (as it's written in Python) and works with any version of Python 3. And you get all of that in one little easy-to-use, 100% integrated package. It's also free and open source and will stay that way forever.
